@@ -15,18 +15,18 @@ Aqui estão reunidos exercícios e projetos práticos desenvolvidos utilizando a
 
 | Projeto | Descrição |
 |---|---|
-| [Calculadora](C/calculadora/) | Aplicação de operações matemáticas. |
-| [Estacionamento](C/estacionamento/) | Sistema de gerenciamento de estacionamento. |
-| [Supermercado](C/supermercado/) | Projeto acadêmico de supermercado. |
-| [Cadastro de Produtos](C/cadastro-produtos/) | Aplicação de cadastro de produtos. |
+| Calculadora | Aplicação de operações matemáticas. |
+| Estacionamento | Sistema de gerenciamento de estacionamento. |
+| Supermercado | Projeto acadêmico de supermercado. |
+| Cadastro de Produtos Aplicação de cadastro de produtos. |
 
 ### 🔹 Linguagem C++
 
 | Projeto | Descrição |
 |---|---|
-| [Batalha Naval](C++/batalha-naval/) | Implementação do jogo Batalha Naval. |
-| [Jogo da Forca](C++/jogo-da-forca/) | Implementação do jogo da Forca. |
-| [Jogo da Velha](C++/jogo-da-velha/) | Implementação do jogo da Velha. |
+| Batalha Naval | Implementação do jogo Batalha Naval. |
+| Jogo da Forca | Implementação do jogo da Forca. |
+| Jogo da Velha | Implementação do jogo da Velha. |
 
 ## 📚 Conhecimentos praticados
 
