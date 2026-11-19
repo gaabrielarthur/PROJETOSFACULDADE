@@ -8,7 +8,6 @@ Aqui estão reunidos exercícios e projetos práticos desenvolvidos utilizando a
 
 - Linguagem C
 - Linguagem C++
-- Git e GitHub
 
 ## 📂 Projetos
 
