@@ -18,7 +18,6 @@ Aqui estão reunidos exercícios e projetos práticos desenvolvidos utilizando a
 | Calculadora | Aplicação de operações matemáticas. |
 | Estacionamento | Sistema de gerenciamento de estacionamento. |
 | Supermercado | Projeto acadêmico de supermercado. |
-| Cadastro de Produtos Aplicação de cadastro de produtos. |
 
 ### 🔹 Linguagem C++
 
@@ -46,5 +45,3 @@ Documentar minha evolução acadêmica e prática na programação, consolidando
 
 ---
 
-**Gabriel Arthur**  
-Estudante de Análise e Desenvolvimento de Sistemas — IFTM Campus Paracatu.
